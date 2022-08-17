@@ -1,1 +1,2 @@
-let a = 12
+import { v4 as uuidV4 } from "uuid";
+uuidV4();
